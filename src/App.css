@@ -1,0 +1,69 @@
+.App {
+  padding: auto;
+  margin:20px;
+  display:flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+
+}
+
+
+.card{
+
+  text-align: center;
+  background-color: bisque;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  width: 400px;
+ border-radius: 10px;
+padding: 20px;
+border: 20px;
+}
+
+
+.card ul li{
+  list-style: none;
+}
+
+.bulb{
+  width: 100px;
+  height: 100px;
+  border-radius: 400px;
+ 
+  background-color: aqua;
+}
+
+.text i  {
+display: inline;
+margin: 4px;
+padding: 4px;
+border: 4px;
+
+
+}
+
+.text h3{
+  display: inline;
+  margin: 4px;
+  padding: 4px;
+
+}
+
+
+button{
+ 
+  border-radius: 20px;
+  height: 40px;
+  width: 40px;
+
+  
+
+}
+
